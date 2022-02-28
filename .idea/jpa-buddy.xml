@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpaBuddyIdeaProjectConfig">
+    <option name="defaultUnitInitialized" value="true" />
+    <option name="reIgnoreSlowDbConnections">
+      <ignoreDs id="3973635c-3d24-46b9-ad9f-4df2750fb23c" />
+    </option>
+  </component>
+</project>
